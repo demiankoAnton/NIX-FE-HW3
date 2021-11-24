@@ -1,0 +1,24 @@
+body {
+    font-size: 1rem;
+    line-height: 1.2;
+    color: #5A1E09;
+    background: no-repeat center/cover url('../images/wall.jpg');
+}
+
+.text:nth-child(1) {
+    font-weight: 700;
+    color: orange;
+}
+
+.text:nth-child(2) {
+    color: rgb(0, 82, 236);
+    line-height: 1.6;
+}
+
+.text:nth-child(3) {
+    color: hsl(200, 70%, 80%);
+}
+
+.text:nth-child(4) {
+    color: rgba(90, 21, 220, 0.8);
+}

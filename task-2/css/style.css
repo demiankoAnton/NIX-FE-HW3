@@ -1,0 +1,23 @@
+body {
+    opacity: 0.3;
+}
+
+body {
+    background-color: rgba(100, 100, 100, 0.3);
+}
+
+p {
+    color: purple;
+}
+
+p {
+    color: #800080;
+}
+
+p {
+    color: rgb(128, 0, 128);
+}
+
+p {
+    color: hsl(300, 100%, 25.1%);
+}

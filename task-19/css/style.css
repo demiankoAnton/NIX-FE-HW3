@@ -1,0 +1,8 @@
+div {
+    width: 300px;
+    height: 200px;
+    margin: 60px auto;
+    background-image: url('../images/w3c.png');
+    background-size: contain;
+    box-shadow: -30px -30px 15px red, 30px 30px 15px blue, 40px -40px 13px green inset, -40px 40px 15px black inset;
+}
